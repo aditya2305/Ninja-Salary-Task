@@ -1,0 +1,26 @@
+.header {
+  margin-top: 2rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bigone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons {
+  margin: 2rem;
+  margin-top: 3rem;
+  width: 10rem;
+}
+
+.inputgroup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
